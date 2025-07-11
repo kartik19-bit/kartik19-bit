@@ -7,8 +7,7 @@
 
 - 🎓 B.Tech CSE @ NIT Hamirpur  
 - 💻 Passionate about building full-stack web apps, solving DSA, and exploring Generative AI  
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **LangChain**  
-- 📈 Regularly practicing SQL case studies & LeetCode contests  
+- 🌱 Currently learning **Next.js**, **TypeScript**, and **LangChain**   
 - 🤝 Looking to collaborate on impactful **AI + Web** projects
 
 ---
@@ -37,24 +36,26 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikverma123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikverma123&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartik19-bit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik19-bit&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
 
 ---
 
 ### 📌 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikverma123&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik19-bit&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
+
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartikverma123&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kartik19-bit&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
