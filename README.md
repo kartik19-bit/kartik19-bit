@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Kartik Verma</h1>
+<h1 align="center">Kartik Verma</h1>
 <h3 align="center">🚀 Final-year CSE | MERN | GenAI | DSA | Open to SDE Roles</h3>
 
 ---
