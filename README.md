@@ -1,22 +1,22 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Kartik+Verma!;Software+Developer+%7C+SDE+Aspirant" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;I'm+Kartik+Verma!;Java+%7C+Spring+Boot+%7C+Full+Stack+Developer" />
 </h1>
 
 <h3 align="center">
-A software developer focused on scalable web apps, strong DSA fundamentals, and clean system design
+Software Developer with strong fundamentals in DSA, Java backend development using Spring Boot, and modern frontend frameworks
 </h3>
 
 <br/>
 
 <div align="center">
 
-🌱 Currently strengthening **Next.js (App Router), TypeScript, Firebase & DBMS**
+🌱 Currently working on **Spring Boot, REST APIs, JPA/Hibernate, Next.js & TypeScript**
 
-💻 Strong in **DSA, OOP, SQL, React, Node.js**
+💻 Strong in **DSA, OOP, DBMS, SQL, Java, React**
 
-🎯 Preparing for **SDE roles & product-based company interviews**
+🎯 Preparing for **SDE roles (Backend / Full-Stack)**
 
 </div>
 
@@ -39,39 +39,52 @@ A software developer focused on scalable web apps, strong DSA fundamentals, and 
 ## 💻 Tech Stack
 
 ### 🚀 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Backend – Spring Ecosystem
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![REST API](https://img.shields.io/badge/REST-API-00599C?style=for-the-badge)
+
+### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🧠 Backend / Databases
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🧠 Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-- 🏥 **Doctor Appointment Booking System**  
-  React + Context API, slot-based booking, scalable architecture
+### 🏥 Doctor Appointment Booking System
+- Spring Boot REST APIs for user & appointment management  
+- JPA/Hibernate with MySQL for persistence  
+- React frontend with context-based state management  
+- Slot-based booking with validation & concurrency handling  
 
-- 🎙 **Next.js Voice Assistant**  
-  App Router, API routes, modern UI & performance optimizations
+### 🎙 Next.js Voice Assistant
+- Built using Next.js App Router & API routes  
+- Backend services integrated with modern UI  
+- Focus on performance & clean architecture  
 
 ---
 
